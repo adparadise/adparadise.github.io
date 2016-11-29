@@ -1,0 +1,26 @@
+.thumbnails {
+  list-style-type: none;
+  position: relative;
+  margin: auto;
+  margin-bottom: 1em; }
+
+.thumbnails:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.thumbnails li {
+  float: left;
+  display: block;
+  margin: 0.4%;
+  width: 24.4%; }
+
+.thumbnails li:first-child {
+  margin-left: 0%; }
+
+.thumbnails li:last-child {
+  margin-right: 0%; }
+
+.thumbnails li img {
+  width: 100%;
+  border: 1px solid black; }

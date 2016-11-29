@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew Paradise</title>
+    <description>Software Engineering, Media Studies and Philosophy soup
+</description>
+    <link>http://andrewparadise.com/</link>
+    <atom:link href="http://andrewparadise.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 28 Nov 2016 20:47:17 -0500</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 20:47:17 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Super Hexagon: Errors</title>
+        <description>&lt;p&gt;In my &lt;a href=&quot;http://andrewparadise.com/super-hexagon-seeing-the-way-out/&quot;&gt;last post&lt;/a&gt;, I broke down my (admittedly novice) skills of perception discovered while playing Terry Cavanagh’s &lt;a href=&quot;http://superhexagon.com&quot;&gt;&lt;i&gt;Super Hexagon&lt;/i&gt;&lt;/a&gt;. This time, I’m focusing on how things can go wrong.&lt;/p&gt;
+
+&lt;p&gt;Let’s dive in.&lt;/p&gt;
+
+&lt;h3&gt;Execution (finger flub)&lt;/h3&gt;
+
+&lt;p&gt;The most basic of errors. The touchscreen requires a certain level of contact to register a rotation. Too little and the game doesn’t react, too much and you might find yourself over-rotating. Getting to know the screen and its latency leads to simple execution errors.&lt;/p&gt;
+
+&lt;h3&gt;Input (eye position)&lt;/h3&gt;
+
+&lt;p&gt;I found that for many of my failures, I was simply looking at the wrong parts of the screen. While first learning the game, my peripheral vision wasn’t trained well enough to clue me into trouble. I might be looking at the bottom left when a glimpse of the only exit spins through the top right corner. The missed milliseconds would be my downfall.&lt;/p&gt;
+
+&lt;h3&gt;Deduction (pattern recognition, elimination)&lt;/h3&gt;
+
+&lt;p&gt;Similarly, in those cases with few exits, I am often forced to make assumptions about an exit’s location based on what I can see and my knowledge of the patterns. Using your higher brain to navigate this spinning maze is already not ideal; the lag between “I should go over there” and thumbs hitting screen is just killer. To make a cognitive error while you are already on your back foot just adds insult to injury.&lt;/p&gt;
+
+&lt;h3&gt;Recognition (identifying pattern)&lt;/h3&gt;
+
+&lt;p&gt;There are times where I see the initial walls of a pattern, and misjudge which pattern it is on an instinctive level. Muscle memory kicks in and I supply the wrong inputs for the pattern at hand. Similar to deduction errors, but this one comes from the gut. Errors like this would happen just as I was beginning to see the board pattern-wise, and happened less and less as I grew accustomed to it.&lt;/p&gt;
+
+&lt;h3&gt;Planning (finding shortest route)&lt;/h3&gt;
+
+&lt;p&gt;There’s a particularly fun pattern in &lt;i&gt;Hexagon&lt;/i&gt; where you are thrown a series of pentagons with a single exit. In the worst case (which seems to be every time!) the next exit is as far from the prior exit as possible. To get to the next exit, you must choose between the short path and the long path. I often find myself choosing the long path erroneously. At this point I find myself desperately twisting the pad as if motion controls were implemented to get that extra boost of speed.&lt;/p&gt;
+
+&lt;h3&gt;Registration (misjudging your position)&lt;/h3&gt;
+
+&lt;p&gt;I think this is the most disappointing type of error. Everything about my game is in great shape - I’ve got a good grasp of the current hurdles, and I’m planning ahead for my next moves. However, my cursor simply isn’t where I think it is. Perhaps this is an Execution error wrapped inside an Input error, but arising at more advanced levels of play. Here, something about the synergy between eyes and thumbs has broken down.&lt;/p&gt;
+
+&lt;h3&gt;Giving Up (assumed dead, stop planning)&lt;/h3&gt;
+
+&lt;p&gt;This is a real head-slapper. You narrowly miss an oncoming wall, but your experience tells you that you ran right into it. You all but take your thumbs off the screen in reaction. Maybe you scramble to regain control, maybe you don’t. Either way, precious milliseconds are lost and true death is inevitable.&lt;/p&gt;
+
+&lt;h3&gt;Off Tempo (move too soon, into barrier)&lt;/h3&gt;
+
+&lt;p&gt;Another advanced error, this involves settling into the wrong groove. As play advances, it becomes impossible to think and plan on individual walls. You must perceive patterns and execute the moves to escape them. I’ve found that although I know the moves, I still might execute them either too fast or too slow. Interestingly, these fails don’t feel too punishing. Maybe childhood drills with a metronome prepared me for this.&lt;/p&gt;
+
+&lt;h2&gt;The Walls&lt;/h2&gt;
+
+&lt;p&gt;I think of errors as the gateway to improvement. Each style of error in play is a wall beyond which you may or may not pass. Without gaining control of these errors and eliminating them, games of skill are only games of chance. What are the chances that the game sends you your weakest pattern &amp;amp;em; your own personal kill screen?&lt;/p&gt;
+
+&lt;p&gt;Super Hexagon makes this pass/fail aspect of skill building painfully clear. I believe that looking at errors as discreet problems to solve is the first step to expert level play. All I have to do now is prove it!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Mar 2013 20:30:00 -0400</pubDate>
+        <link>http://andrewparadise.com/writing/super-hexagon-errors/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/super-hexagon-errors/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Super Hexagon: Seeing the Way Out</title>
+        <description>&lt;p&gt;Terry Cavanagh’s &lt;a href=&quot;http://superhexagon.com&quot;&gt;Super Hexagon&lt;/a&gt; is a delightfully simple action game, whose reputation for punishment has no doubt already reached you. Although this spiraling maze of death has extremely simply rules, it is also relentless and uncompromising.&lt;/p&gt;
+
+&lt;p&gt;Shortly after its release, there was a great deal of discussion about how it highlights a player’s role in the the game. In this game, as in any other, to succeed requires that the player change to adapt to &lt;em&gt;it&lt;/em&gt;. I was inspired to give a bit of thought to exactly what was changing. This post is specifically about how my perception of the game changed to adapt to the challenge.&lt;/p&gt;
+
+&lt;h3&gt;Individual Walls&lt;/h3&gt;
+
+&lt;p&gt;After overcoming the sensory overload, my first perception of the playing field was of a mass of walls being thrown at me. Similar to bullet hell shooters, I saw walls as projectiles. I was unable to track more than one or two walls at a time, and I was aware of my triangle’s position on gut feel alone.&lt;/p&gt;
+
+&lt;h3&gt;Triangle to Edge&lt;/h3&gt;
+
+&lt;p&gt;An early boost in skill arrived by ceasing to see walls as large, homogenous obstacles, but as edges serving as &lt;strong&gt;targets to graze&lt;/strong&gt;. The game suddenly became a slalom course centered on the triangle’s relationship to wall edges. At that point I was holding the triangle and one target edge in my mind at a time, looking for the next edge to graze once the first was cleared.&lt;/p&gt;
+
+&lt;h3&gt;Triangle to Column&lt;/h3&gt;
+
+&lt;p&gt;Another, more sustainable focus was in my relationship to the columns. I still stayed acutely aware of the triangle, but safe columns became grooves or notches that I fit into. The game shifted from negative reinforcment to positive: empty spaces became targets to hit. It almost felt as if I were being awarded points for hitting them!&lt;/p&gt;
+
+&lt;p&gt;Upon arriving in a clear column, I could again start to look ahead. Being a bigger target than wall edges, with this approach, I could sooner start finding the best path out of the maze.&lt;/p&gt;
+
+&lt;h3&gt;Wall Shapes&lt;/h3&gt;
+
+&lt;p&gt;The final stage I just started to hit was to recognize the common patterns that form the onslaught. In this mode, my awareness of the triangle is vague at best, muscle memory starts to win out over perception. If the cursor ever strays a bit too far from where I expect it to be, I start to feel edgy and I revert to one of the prior perception models.&lt;/p&gt;
+
+&lt;h2&gt;Making my Escape&lt;/h2&gt;
+
+&lt;p&gt;Let it be clear that my level of expertise in this game is intermediate at best. Right now, I have zero chance of beating Hexagonest, even at my better moments. With more to learn, it’s quite possible that a new view on this spinning death trap is the next key to improvement.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Mar 2013 07:46:20 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/super-hexagon-seeing-the-way-out/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/super-hexagon-seeing-the-way-out/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>JavaScript: Isolated vars</title>
+        <description>&lt;p&gt;Lately, I’ve been keeping JavaScript &lt;code&gt;var&lt;/code&gt; declarations separate from initializations. It’s required a fair amount of discipline, but I like the results quite a bit.&lt;/p&gt;
+
+&lt;p&gt;For example, Instead of this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   function sum(list) {
+        var index, listLength = list.length,
+            sum = 0, min, max, result = {};
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I have been writing methods that start like this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;   function sum(list) {
+       var index, listLength;
+       var sum, min, max;
+       var result;
+
+       listLength = list.length;
+       sum = 0;
+       result = {};
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;Variants&lt;/h2&gt;
+
+&lt;p&gt;As you can see from my code above, I do not follow the recommended convention of a single &lt;code&gt;var&lt;/code&gt; for all variable declarations. Instead, I start each line with a &lt;code&gt;var&lt;/code&gt; and include several related variables. I simply do this for visual consistency. As it happens, Emacs also fails to highlight variable names on subsequent lines in this style. I hate to have limitations in my tools impact my behavior, but there you have it.&lt;/p&gt;
+
+&lt;p&gt;I also find that I make an exception to this approach for local constants. If creation of the variable has no side effects, and its value will not change within the scope, I will put a single declaration and initialization on one line. These are conceptually constant, and I often uppercase the variable name to help communicate that. The other example is the venerable &lt;code&gt;self&lt;/code&gt;. The &lt;code&gt;var self = this;&lt;/code&gt; pattern is so idiomatic that it’s hard to rationalize breaking it. Moreover, forgetting to initialize &lt;code&gt;self&lt;/code&gt; can lead to some confusing bugs.&lt;/p&gt;
+
+&lt;h2&gt;Pros&lt;/h2&gt;
+
+&lt;p&gt;I find the biggest gain to be readability. When your declarations are separate from your initializations, your attention is draw to the most important part of any given block: the logic. The declarations fade away into boilerplate. Initialization values are close to the logic they pertain to, reducing the amount of short term memory required to hold functionality in your head.&lt;/p&gt;
+
+&lt;p&gt;When you mix initializations in, I find that it hides important information about the method. Even before adopting this practice, I found that I tended to skim or simply ignore the var block, missing important details.&lt;/p&gt;
+
+&lt;h2&gt;Cons&lt;/h2&gt;
+
+&lt;p&gt;On the flipside, I find that I can forget to initialize variables with this approach. It also means a good deal more jumping forward and back within the small space of your methods as you write new functionality. As I work with this style, I find I’m forgetting to initialize my variables less and less, and all of the cursor movement has driven me to improve my Emacs skills.&lt;/p&gt;
+
+&lt;h2&gt;The tradeoff&lt;/h2&gt;
+
+&lt;p&gt;Looking at this list of pros and cons, I find it interesting that the pros are fairly subtle. This apprach highlights a tradeoff between pain in writing and pain in reading. I can imagine having a hard time convincing developers that the benefits outweigh the cost.&lt;/p&gt;
+
+&lt;p&gt;As a consultant delivering work for others to maintain, I take these gains quite seriously. I’m happy to work a bit harder to give the next developer a better chance of understanding my intentions.&lt;/p&gt;
+
+&lt;h2&gt;Too Java? Not enough Script?&lt;/h2&gt;
+
+&lt;p&gt;I imagine some developers might find this practice a bit uptight, a bit to Java-y. The fact of the matter is, variable declarations are part of JavaScript, for better or worse. At least we can wrangle those declarations into a single place, away from the interesting stuff.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 Feb 2013 13:42:14 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/javascript-isolated-vars/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/javascript-isolated-vars/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>10 PRINT</title>
+        <description>&lt;p&gt;Here’s an homage to &lt;a href=&quot;http://10print.org/&quot;&gt;&lt;code&gt;10 print; chr$(205.5+rnd(1)) goto 10&lt;/code&gt;&lt;/a&gt;. &lt;code&gt;10 PRINT&lt;/code&gt; is a cultural, historical and technological treatise on a single line of BASIC code. How’s that for documentation?&lt;/p&gt;
+
+&lt;script src=&quot;/js/10print.js&quot;&gt;&lt;/script&gt;
+
+&lt;script id=&quot;10print-script&quot;&gt;
+      var container, print10;
+
+      print10 = new Print10({
+        totalWidth: 490, totalHeight: 300,
+        width: 32, height: 32, thickness: 0.225,
+        color: &quot;#ffc&quot;, background: &quot;#05f&quot;
+      });
+      container = document.getElementById('10print-script').parentNode;
+      print10.build(container);
+      print10.start();
+&lt;/script&gt;
+
+</description>
+        <pubDate>Mon, 18 Feb 2013 21:34:51 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/10-print/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/10-print/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Subjectivity in Software</title>
+        <description>&lt;p&gt;This is second in a series on lessons learned from the art world. The first, about aesthetics can be found &lt;a href=&quot;http://andrewparadise.com/tangible-aesthetics/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Subjectivity matters&lt;/h2&gt;
+
+&lt;p&gt;Subjectivity is all about what assumptions and preconceptions a viewer brings to the table when evaluating a work. This might make a piece open to interpretation, or it might leave a piece “incomplete” if the viewer doeesn’t have the required background. Take Duchamp’s “Nude Descending a Staircase”&lt;/p&gt;
+
+&lt;figure style=&quot;float: right; width: 40%; margin: 0em 0em 1em 1em;&quot;&gt;&lt;img style=&quot;width: 100%;&quot; src=&quot;http://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Duchamp_-_Nude_Descending_a_Staircase.jpg/365px-Duchamp_-_Nude_Descending_a_Staircase.jpg&quot; alt=&quot;Nude Descending a Staircase&quot; /&gt;&lt;figcaption style=&quot;font-size: .8em;&quot;&gt;Duchamp &quot;Nude Descending a Staircase&quot; 1912; Oil on canvas, 147 cm × 89.2 cm (57 7⁄8 in × 35 1⁄8 in)&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Without the title, one might recognize the stairs and guess at a human form. But this piece’s place in the Cubist art movement confirms that this is a deconstructed object. And although the technique originates here, one’s experience reading comics would make sense of the motion lines, showing the paths that calves and knees move through. Without all of this context, the painting is a muddy, brown mass of shapes.&lt;/p&gt;
+
+&lt;h2 style=&quot;clear: none&quot;&gt;Subjectivity is unavoidable&lt;/h2&gt;
+
+&lt;p&gt;Now that we are well into the postmodern art era, it is widely accepted that subjectivity is not only an important aspect of a piece of work, it is unavoidable. If a human is viewing a piece of work, she is filtering it through her own experiences.&lt;/p&gt;
+
+&lt;p&gt;While certain aspects of a work can be considered objective, there are always other aspects that are dependent on what the viewer brings. A simple photograph of an apple is inarguably an image of an apple. But why photograph an apple in the first place? Even further, why use a camera and not paint on a canvas? Why show it in a gallery or in a book?  Why talk about it as a piece of art in the first place? There is always something missing that a human must fill in.&lt;/p&gt;
+
+&lt;h2&gt;What about Software?&lt;/h2&gt;
+
+&lt;p&gt;I find that the tricky part with software is convincing people that humans are part of the audience. The most obvious consumer of source code is the computer itself. However, the moment another person looks at a piece of source code, subjectivity applies.&lt;/p&gt;
+
+&lt;p&gt;Why would did the author of this software name this class Foo? Why didn’t he break this into a new file? You might think it overly subtle to think deeply about the choices a software developer makes as he writes, but it all fits into a dialog. New software developers bring a great deal of context with them as they read a codebase. The subjectivity of software lives at that intersection of old and new.&lt;/p&gt;
+
+&lt;p&gt;Beside this notion that subjectivity in software is unavoidable, I don’t have much more to add. Perhaps I’m simply justifying the sour look on my face when someone dismisses serious thought into the naming of variables as “just semantics.” It might be a subtle point, but ignoring subjectivity  can lead to serious disagreements. Worse, it might lead to someone dismissing a codebase altogether.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Feb 2013 20:35:43 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/subjectivity-in-software/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/subjectivity-in-software/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Test Drive out of Tight Spots</title>
+        <description>&lt;p&gt;I recently implemented some serverside argument validation on a peculiar J2EE environment. This system makes it difficult to isolate modules of software, making the HTTP server the only reasonable way to execute the code. There is only one channel of output in this case: the same one that delivers content to users.&lt;/p&gt;
+
+&lt;p&gt;Which makes all of my tests integration tests. Unfortunately, since I was focused on some tricky logic, I needed some isolation. I needed a way to get visibility into some of the intermediate values on my calculations. It occurred to me that there is an out-of-band channel I could use:&lt;/p&gt;
+
+&lt;h2&gt;HTML Comments&lt;/h2&gt;
+
+&lt;p&gt;So I started encoding some debugging values in JSON, emitting them as HTML comments in the output. Then I built a ruby script to Curl this page with different arguments, parse all of these JSON blocks and compare the results against expectations.&lt;/p&gt;
+
+&lt;p&gt;It is a fairly dirty approach, and is likely to be removed before release to production, but it let me TDD a tricky problem. It was far simpler than introducing traditional view testing approaches, and got me the isolation I wanted.&lt;/p&gt;
+
+&lt;p&gt;In a pinch, look for those out-of-band communication channels like inline comments or console logs for reliable access to internal state. And anything that’s reliable can be used for automated testing.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 02 Feb 2013 07:58:58 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/154/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/154/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Tangible Aesthetics</title>
+        <description>&lt;p&gt;I spent some amount of time taking art seriously. I do not claim to have accomplished anything in that time, but at least I was invested in its dynamic, nebulous methods and values.&lt;/p&gt;
+
+&lt;p&gt;Art might be a series of images on a wall, or it might be a dynamic sculpture that responds to your presence. In the end, one makes art to make an impression on their audience. Artists create something and present it, and it should speak for itself. It’s a tricky problem, and many things can be learned in the persuit.&lt;/p&gt;
+
+&lt;p&gt;So, now I write software. Did anything interesting transfer?&lt;/p&gt;
+
+&lt;h2&gt;Aesthetics&lt;/h2&gt;
+
+&lt;p&gt;At least in a visual industry like the web, aesthetics will of course come into play. Composition, color and mood are the same whether on a screen or on a canvas. Some aesthetic choices have obvious effects on the viewer, and some are more subtle. After some experience making aesthetic choices, the subtler effects become more obvious.&lt;/p&gt;
+
+&lt;p&gt;Playing with visual composition shows how a viewer’s attention can be manipulated. Good composition guides the viewer’s eye through interesting aspects of your work, while bad composition leads the eye off of the page altogether.&lt;/p&gt;
+
+&lt;p&gt;This can lead to some good ideas in managing source code. Lining up variables allows the eye to scan them for differences more easily. An extra blank line can delineate groups of related items. A comfortable line width keeps the attention in the center of the page, where most of the good stuff happens. The effect of these decisions may be small, but they are tangible. They are the building blocks of readable code.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 26 Jan 2013 08:38:46 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/tangible-aesthetics/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/tangible-aesthetics/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Human Code Reviews</title>
+        <description>&lt;p&gt;Software is written to accomplish goals and communicate to developers. Code reviews are about people reading code. I propose an approach to code reviews designed to maximize the value of &lt;em&gt;humans reading code&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This code review methodology does not focus on catching bugs per se. No code review process can be expected to find all bugs in a piece of software. This approach instead focuses on locating faulty assumptions and uncovering unclear solutions. It minimizes the time cost of code reviews while increasing the team’s exposure to the codebase.&lt;/p&gt;
+
+&lt;h2&gt;Goals&lt;/h2&gt;
+
+&lt;p&gt;Here are the goals of this approach to code reviews:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maximize supportability of code by: 
+
+&lt;ul&gt;
+&lt;li&gt;Reaching consensus on naming and approach&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Share knowledge throughout the team&lt;/li&gt;
+&lt;li&gt;Find test coverage gaps&lt;/li&gt;
+&lt;li&gt;Find logical errors&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are the sorts of things that the ad-hoc “another set of eyes” approach can give you. And in truth, we don’t hope for this system to give us much more than that. We are human after all.&lt;/p&gt;
+
+&lt;p&gt;Note that we aren’t enforcing code style here. I consider this a problem solved by developers tools such as linters or IDEs. Although humans do adapt to identify whitespace differences and missing semicolons, I’d rather see that energy go towards the more interesting problems.&lt;/p&gt;
+
+&lt;h2&gt;Prerequisites&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Coder brings a mind open to: 
+
+&lt;ul&gt;
+&lt;li&gt;Alternate approaches to solving the problem at hand&lt;/li&gt;
+&lt;li&gt;Learning new paradigms or design patterns&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;That’s it! These rules are here to remind us that we are not our code. We should be egoless with our software. What matters in this exercise is the impression the code makes on others, not who wrote it.&lt;/p&gt;
+
+&lt;h2&gt;The Process&lt;/h2&gt;
+
+&lt;p&gt;A code review is a 20 minute session between two people: the Coder who wrote the code being reviewed, and the Reviewer.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;First, the Coder explains problem space and intent of the solution&lt;/li&gt;
+&lt;li&gt;Then the Reviewer takes control, navigating the source code and verbalizing her thoughts. 
+Some suggested reviewer tasks:
+
+
+&lt;ul&gt;
+&lt;li&gt;Scan the directory structure.  &lt;/li&gt;
+&lt;li&gt;If you were solving this problem, where would that code go? Try to find it there.  &lt;/li&gt;
+&lt;li&gt;Look at the files that were changed. Any surprises? Here's a command for that in &lt;code&gt;git&lt;/code&gt;:
+
+ &lt;code&gt;git diff &amp;lt;start commit&amp;gt; &amp;lt;end commit&amp;gt; | grep +++&lt;/code&gt;  &lt;/li&gt;
+&lt;li&gt;Review the test case descriptions, ignoring the test code. Are there any coverage gaps?  &lt;/li&gt;
+&lt;li&gt;Review the tests, looking for logical errors in coverage.  &lt;/li&gt;
+&lt;li&gt;Review the changed code, in-place &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Coder and Reviewer discuss differences of assumption they find. They have a dialog about their points of view and agree on the clearest way to accomplish the goals.&lt;/li&gt;
+&lt;li&gt;Coder documents todo items generated by the dialog.&lt;/li&gt;
+&lt;li&gt;After the session, the Coder updates the codebase to match the verbal consensus.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This method puts nearly all of the focus on the Reviewer’s reactions to the code. In truth, what we are doing is performing a &lt;em&gt;Usability Test on the code itself.&lt;/em&gt; The Reviewer takes on the role of a future developer, sitting down to read or modify this code. From this point of view, the &lt;strong&gt;source code&lt;/strong&gt; is the application under test, and future developers are the users.&lt;/p&gt;
+
+&lt;p&gt;I don’t recommend reviewing diffs, as convienient as Github makes it. Simply looking at diffs removes the code from the context, hiding its role in the application as a whole.&lt;/p&gt;
+
+&lt;h2&gt;Scheduling&lt;/h2&gt;
+
+&lt;p&gt;Here we focus on practicality and human factors. Code reviews can be a huge time sink. We want as many eyes as possible looking at as much code as possible, without burdening the team.&lt;/p&gt;
+
+&lt;p&gt;I chose 20 minute sessions as the smallest productive unit of time. Any less and immersion in the task becomes difficult. I’m in favor of regularity, so I propose holding these sessions daily at a consistent time. I’d recommend occupying one of those times that tends to be a slump or distraction already, such as 2PM or right after a regular standup.&lt;/p&gt;
+
+&lt;p&gt;This regularity lets developers plan their time a bit more and avoid disruption. It might even serve as a good transitional task to bring them into the coding mindset more smoothly.&lt;/p&gt;
+
+&lt;p&gt;As for picking slump times, I think it may be beneficial to get a person at his grumpiest. Of course it will depend on the person and the software, but looking at new code while one is the least receptive might help uncover assumptions.&lt;/p&gt;
+
+&lt;h2&gt;Rotation&lt;/h2&gt;
+
+&lt;p&gt;Finally, everyone should be reviewing everyone’s code, regardless of experience level. A junior developer’s reaction to advanced code can still be valuable. Don’t forget that experience in a subject matter and software quality are not the same!&lt;/p&gt;
+
+&lt;p&gt;Ideally, it should be 2-3 days since a coder’s work has been reviewed I assume in that timeframe, each developer has made 2-3 ‘interesting’ decisions to be brought up in the reviews. Teams with an odd number of developers can give a different person a day off each day.&lt;/p&gt;
+
+&lt;h2&gt;In summary&lt;/h2&gt;
+
+&lt;p&gt;This method should be straightforward to implement in a department, especially if code style is already enforced. Ideally, it will be low impact but maximize the value of humans looking at code.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 19 Jan 2013 10:45:37 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/human-code-reviews/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/human-code-reviews/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Sustainable MicroCleaning</title>
+        <description>&lt;p&gt;My wife and I have started a new cleaning policy for our apartment, and I think it’s got a lot of potential.&lt;/p&gt;
+
+&lt;p&gt;Taking a page from what others have been saying about sustainable, continuous cleaning practices, we knew we wanted to have nightly, five minute cleaning sessions. There should be no night where we skip the cleaning, no matter how tired we are or how late it is. With everything in place, doing one cleaning task should be quick, painless, and brainless.&lt;/p&gt;
+
+&lt;h2&gt;What's a task?&lt;/h2&gt;
+
+&lt;p&gt;The question is, what constitutes a task?&lt;/p&gt;
+
+&lt;p&gt;Breaking it down, I noticed that for any given room, there are 5 common tasks. They are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dusting&lt;/li&gt;
+&lt;li&gt;Sweeping&lt;/li&gt;
+&lt;li&gt;Cleaning (with some cleanser)&lt;/li&gt;
+&lt;li&gt;Tidying (returning things to their correct place)&lt;/li&gt;
+&lt;li&gt;Purging (removing things that you no longer need)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;On Paper&lt;/h2&gt;
+
+&lt;p&gt;Dusting, sweeping and cleaning are pretty straightforward. To dust, you need a duster, some wood spray and a cloth. Sweeping: broom and dustpan. For cleaning I use an all purpose cleanser and a rag.&lt;/p&gt;
+
+&lt;p&gt;In our apartment, there are about 10 parts of the apartment that benefit from a dusting. For example, I count the TV and its mess of cables as one unit of work, whereas the bedroom itself is a single task, by virtue of its modest size. With two of us, this means everything will be dusted once a month, which sounds about right to us.&lt;/p&gt;
+
+&lt;p&gt;Similarly, there are 5 or so sweepworthy places in our apartment. Getting to each of them twice a month might be overkill in some rooms, but the main entryway could certainly benefit.&lt;/p&gt;
+
+&lt;p&gt;To tidy, I’d pick a single surface or location and straighten things up. Anything that doesn’t belong where it is gets brought to its correct place. You might bring a dish back to the kitchen or trash to the wastebasket.&lt;/p&gt;
+
+&lt;p&gt;Purging is about throwing things away. Pick a location in your home and throw out the things that don’t belong in your life at all. Finish by bringing it outdoors to the trash. This is a good task to do the night before trash day. Often, unneeded items such as clothes or electronics should be donated or recycled. Unfortunately, the best we can do is collect them in one place and make an errand of delivering them.&lt;/p&gt;
+
+&lt;h2&gt;In Reality&lt;/h2&gt;
+
+&lt;p&gt;After starting this practice, I found that it has some nice properties.&lt;/p&gt;
+
+&lt;p&gt;Let’s say I start dusting and find a book that’s out of place. Since Tidying is Thursday’s task, &lt;em&gt;I can leave that book where it is&lt;/em&gt; and keep dusting. As tempting as it might be to walk away from the dusty endtable, you should dust that book and put it back where you found it!&lt;/p&gt;
+
+&lt;p&gt;I think this is the key to the sustainability of this practice. Each task is truly the size we expect it to be. We are focused on the task at hand and have everything we need to complete it. This scheme is very helpful &lt;em&gt;as you start&lt;/em&gt; since it makes dealing with that dusty, messy pile of unwanted things very reasonable.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 12 Jan 2013 08:22:31 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/sustainable-microcleaning/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/sustainable-microcleaning/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Right-Sized Blog Posts</title>
+        <description>&lt;p&gt;You might not know it from the archive, but I’ve been keeping a backlog of ideas in outline form for blog posts. I value blogging as a form self promotion and see a well populated post history as a sign of an individual worth paying attention to.&lt;/p&gt;
+
+&lt;p&gt;I recently noticed that I seem to expect a certain amount of information in a blog post. Too much and I tune out, too little and I wonder why it wasn’t a tweet. I seem to like about &lt;b&gt;five paragraphs of content&lt;/b&gt; and &lt;b&gt;two or three emphasized phrases&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;Great! That tells me that my favorite ideas are two bullet points long. I can now look at my outlines with a bit more scrutiny and separate the wheat from the chaff. I find that most of my outlines are sprawling beasts. The outline themselves can lose my attention upon further review.&lt;/p&gt;
+
+&lt;p&gt;But most importantly, this opens the door for even shorter thoughts to become worthy of transcription. This post? It came from &lt;b&gt;a single observation about my own taste&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;Who knew something so small could be so satisfying?&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 20 Nov 2012 21:50:00 -0500</pubDate>
+        <link>http://andrewparadise.com/writing/right-sized-blog-posts/</link>
+        <guid isPermaLink="true">http://andrewparadise.com/writing/right-sized-blog-posts/</guid>
+        
+        
+        <category>Uncategorized</category>
+        
+      </item>
+    
+  </channel>
+</rss>

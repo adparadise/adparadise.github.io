@@ -1,0 +1,24 @@
+RedirectMatch 301 "/blogging-bootstrap/$" /writing/blogging-bootstrap/
+RedirectMatch 301 "/all-developers-should-make-games/$" /writing/all-developers-should-make-games/
+RedirectMatch 301 "/games-as-creative-writing/$" /writing/games-as-creative-writing/
+RedirectMatch 301 "/hanano-puzzle-by-tatsunami/$" /writing/hanano-puzzle-by-tatsunami/
+RedirectMatch 301 "/the-best-films-are-the-simplest-video-games/$" /writing/the-best-films-are-the-simplest-video-games/
+RedirectMatch 301 "/gdc-takeaways-prototyping/$" /writing/gdc-takeaways-prototyping/
+RedirectMatch 301 "/workflows/$" /writing/workflows/
+RedirectMatch 301 "/code-as-sculpture/$" /writing/code-as-sculpture/
+RedirectMatch 301 "/planning-for-reuse/$" /writing/planning-for-reuse/
+RedirectMatch 301 "/right-sized-blog-posts/$" /writing/right-sized-blog-posts/
+RedirectMatch 301 "/sustainable-microcleaning/$" /writing/sustainable-microcleaning/
+RedirectMatch 301 "/human-code-reviews/$" /writing/human-code-reviews/
+RedirectMatch 301 "/tangible-aesthetics/$" /writing/tangible-aesthetics/
+RedirectMatch 301 "/154/$" /writing/154/
+RedirectMatch 301 "/subjectivity-in-software/$" /writing/subjectivity-in-software/
+RedirectMatch 301 "/10-print/$" /writing/10-print/
+RedirectMatch 301 "/javascript-isolated-vars/$" /writing/javascript-isolated-vars/
+RedirectMatch 301 "/super-hexagon-seeing-the-way-out/$" /writing/super-hexagon-seeing-the-way-out/
+RedirectMatch 301 "/super-hexagon-errors/$" /writing/super-hexagon-errors/
+RedirectMatch 301 "/lets-talk-software-engineering/$" /writing/lets-talk-software-engineering/
+RedirectMatch 301 "/fluke-ball/$" /projects/fluke-ball/
+RedirectMatch 301 "/ms-pacman-escher-edition/$" /projects/hack-madam/
+
+Options -Indexes
