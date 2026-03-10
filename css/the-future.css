@@ -1,0 +1,25 @@
+@import "common.css";
+
+.the-future h1 {
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 180%;
+}
+
+.the-future h2, .the-future h3, .the-future h4, .the-future h5, .the-future h6, .the-future .header {
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal; }
+
+.the-future h2, .the-future h3 {
+  font-weight: 400; }
+
+.the-future .title {
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 140%;
+  line-height: 1em; }
+  .the-future .title a {
+    margin-right: 1em; }
